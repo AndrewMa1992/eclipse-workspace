@@ -1,5 +1,15 @@
 package BankQueueSys;
 
-public class CQInterface {
+public interface CQInterface {
+	
+	void enqueue(Client c);
+	
+	Client dequeue();
+	
+	Client peek();
+	
+	boolean isEmpty();
+	
+	int length();
 
 }
