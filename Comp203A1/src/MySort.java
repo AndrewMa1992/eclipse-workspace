@@ -10,6 +10,7 @@ public class MySort {
 		for (int i = 1; i <= number; i++) {
 			list.Add(rd.nextInt(number + 1));
 		}
+		
 		if (sort.equals("i")) {
 			list.Dump();
 			list.InsertionSort();;
