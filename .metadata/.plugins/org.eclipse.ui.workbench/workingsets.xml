@@ -1,4 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1550076300694_3" label="taotao" name="taotao">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager-pojo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager-dao" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager-interface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager-web" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1551856400987_3" label="E3Mall" name="E3Mall">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-order" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-order-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-manager-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/source" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-search-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-search-interface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-manager-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-content" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-sso-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-order-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-cart" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-sso-interface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-search-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-manager-pojo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-manager-interface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-manager-dao" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-cart-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-search" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-manager" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-portal-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-sso-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-cart-interface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-cart-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-content-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-order-interface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-sso" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-item-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-content-interface" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1534254265951_0" label="Window Working Set" name="Aggregate for window 1534254265950"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1550076379821_4" label="Multiple Working Sets" name="Aggregate:03.CRM:crm:taotao:"/>
+<mruList name="E3Mall"/>
+<mruList name="taotao"/>
 </workingSetManager>

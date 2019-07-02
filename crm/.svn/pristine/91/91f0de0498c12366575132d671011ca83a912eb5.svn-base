@@ -1,0 +1,14 @@
+package com.itheima.crm.dao;
+
+import com.itheima.crm.domain.User;
+
+/***
+ * 
+ * @author Andrew
+ *
+ */
+public interface UserDao {
+
+	void save(User user);
+
+}

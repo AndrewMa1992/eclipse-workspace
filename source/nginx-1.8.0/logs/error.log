@@ -1,0 +1,3 @@
+2019/03/07 16:24:25 [notice] 14944#13248: signal process started
+2019/03/07 16:24:25 [error] 14944#13248: OpenEvent("Global\ngx_stop_13948") failed (5: Access is denied)
+2019/03/07 16:25:30 [notice] 1860#10960: signal process started

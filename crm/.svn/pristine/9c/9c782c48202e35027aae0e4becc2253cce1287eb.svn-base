@@ -1,0 +1,16 @@
+package com.itheima.crm.dao.impl;
+
+import org.springframework.orm.hibernate5.support.HibernateDaoSupport;
+
+import com.itheima.crm.dao.UserDao;
+import com.itheima.crm.domain.User;
+
+public class UserDaoImpl extends HibernateDaoSupport implements UserDao {
+
+	@Override
+	public void save(User user) {
+	 this.getHibernateTemplate().save(user);
+		
+	}
+
+}

@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+<typeInfo handle="=crm/D:\/eclipse-workspace\/crm\/WebContent\/WEB-INF\/lib\/spring-web-4.2.4.RELEASE.jar&lt;org.springframework.web.context(ContextLoaderListener.class[ContextLoaderListener" modifiers="33" timestamp="1546867823947"/>
+<typeInfo handle="=crm/D:\/eclipse-workspace\/crm\/WebContent\/WEB-INF\/lib\/xwork-core-2.3.24.jar&lt;com.opensymphony.xwork2(Action.class[Action" modifiers="1537" timestamp="1546867823972"/>
+<typeInfo handle="=crm/src&lt;com.itheima.crm.dao{CustomerDao.java[CustomerDao" modifiers="513" timestamp="1547794537454"/>
+<typeInfo handle="=crm/src&lt;com.itheima.crm.service{CustomerService.java[CustomerService" modifiers="513" timestamp="1547796074124"/>
+<typeInfo handle="=crm/D:\/eclipse-workspace\/crm\/WebContent\/WEB-INF\/lib\/hibernate-core-5.0.7.Final.jar&lt;org.hibernate(CustomEntityDirtinessStrategy.class[CustomEntityDirtinessStrategy" modifiers="1537" timestamp="1546867823762"/>
+<typeInfo handle="=crm/D:\/eclipse-workspace\/crm\/WebContent\/WEB-INF\/lib\/xwork-core-2.3.24.jar&lt;com.opensymphony.xwork2(ActionSupport.class[ActionSupport" modifiers="33" timestamp="1546867823972"/>
+<typeInfo handle="=crm/D:\/eclipse-workspace\/crm\/WebContent\/WEB-INF\/lib\/spring-orm-4.2.4.RELEASE.jar&lt;org.springframework.orm.hibernate5.support(OpenSessionInViewFilter.class[OpenSessionInViewFilter" modifiers="33" timestamp="1546867823930"/>
+<typeInfo handle="=crm/src&lt;com.itheima.crm.dao{LinkManDao.java[LinkManDao" modifiers="513" timestamp="1547794537294"/>
+<typeInfo handle="=crm/D:\/eclipse-workspace\/crm\/WebContent\/WEB-INF\/lib\/xwork-core-2.3.24.jar&lt;com.opensymphony.xwork2(ModelDriven.class[ModelDriven" modifiers="1537" timestamp="1546867823972"/>
+<typeInfo handle="=crm/src&lt;com.itheima.crm.dao{BaseDao.java[BaseDao" modifiers="513" timestamp="1547794458448"/>
+<typeInfo handle="=crm07_dao/src\/main\/java&lt;cn.itcast.crm.dao{ICustomerDao.java[ICustomerDao" modifiers="513" timestamp="1548744713978"/>
+</typeInfoHistroy>

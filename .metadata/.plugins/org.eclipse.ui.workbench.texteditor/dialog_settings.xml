@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="729" key="DIALOG_X_ORIGIN"/>
+		<item value="403" key="DIALOG_Y_ORIGIN"/>
+	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="package scrollback;" key="selection"/>
+		<item value="&lt;project xmlns=&quot;http://maven.apache.org/POM/4.0.0&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="&lt;project xmlns=&quot;http://maven.apache.org/POM/4.0.0&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;"/>
+			<item value="findByPage"/>
+			<item value="CREATE TABLE `cst_customer` ("/>
+			<item value="order_list.jsp"/>
+			<item value="password"/>
+			<item value="&lt;%@ page language=&quot;java&quot; contentType=&quot;text/html; charset=UTF-8&quot;"/>
 			<item value="package scrollback;"/>
 			<item value="package com.testshape;"/>
 			<item value="&#x0D;&#x0A;public class TestShapeV1 {&#x0D;&#x0A;&#x0D;&#x0A;&#x09;public static void main(String[] args) {&#x0D;&#x0A;&#x09;&#x09;Shape s = new Shape(1, 2, 3, 4);&#x0D;&#x0A;&#x09;    System.out.println(&quot;Shape is &quot; + s);&#x0D;&#x0A;&#x09;    Square sq = new Square(5, 6, 10);&#x0D;&#x0A;&#x09;    System.out.println(&quot;Shape is &quot; + sq);&#x0D;&#x0A;&#x0D;&#x0A;&#x09;}&#x0D;&#x0A;&#x0D;&#x0A;&#x09;class Shape&#x0D;&#x0A;&#x09;{&#x0D;&#x0A;&#x09;  private int left, top, width, height;&#x0D;&#x0A;&#x09;  &#x0D;&#x0A;&#x09;  public Shape(int x, int y, int w, int h) {&#x0D;&#x0A;&#x09;    left = x; top = y; width = w; height = h;&#x0D;&#x0A;&#x09;  }&#x0D;&#x0A;&#x09;  &#x0D;&#x0A;&#x09;  @Override public String toString() {&#x0D;&#x0A;&#x09;    return &quot;Shape(L:&quot; + left + &quot;,T:&quot; + top + &quot;,W:&quot; + width + &quot;,H:&quot; + height + &quot;)&quot;;&#x0D;&#x0A;&#x09;  }&#x0D;&#x0A;&#x09;}&#x0D;&#x0A;&#x09;&#x0D;&#x0A;&#x09;class Square extends Shape {&#x0D;&#x0A;&#x09;&#x09;  &#x0D;&#x0A;&#x09;&#x09;  public Square(int x, int y, int w) {&#x0D;&#x0A;&#x09;&#x09;    super(x, y, w, w);&#x0D;&#x0A;&#x09;&#x09;  }&#x0D;&#x0A;&#x09;&#x09;}&#x0D;&#x0A;}&#x0D;&#x0A;"/>
@@ -21,10 +31,10 @@
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item value="300" key="DIALOG_WIDTH"/>
-		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
-		<item value="410" key="DIALOG_HEIGHT"/>
-		<item value="541" key="DIALOG_X_ORIGIN"/>
-		<item value="99" key="DIALOG_Y_ORIGIN"/>
+		<item value="284" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="391" key="DIALOG_HEIGHT"/>
+		<item value="1090" key="DIALOG_X_ORIGIN"/>
+		<item value="92" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>
